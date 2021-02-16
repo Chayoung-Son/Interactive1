@@ -1,0 +1,82 @@
+body{ background: 
+
+}
+
+.flower{
+
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background: purple;
+    position: absolute;
+    top: 35px;
+    left: 50%;
+    border-radius: 50px;
+
+}
+.circle2{
+    height: 100px;
+    width: 100px;
+    background: purple;
+    position: absolute;
+    top: 100px;
+    left: 56%;
+    border-radius: 50px;
+
+}
+.circle3{
+    height: 100px;
+    width: 100px;
+    background: purple;
+    position: absolute;
+    top: 170px;
+    left: 50%;
+    border-radius: 50px;
+
+
+}
+.circle4{
+    height: 100px;
+    width: 100px;
+    background: purple;
+    position: absolute;
+    top: 100px;
+  right: 49%;
+    border-radius: 50px;
+
+
+}
+.circle5{
+    height: 100px;
+    width: 100px;
+    background: white;
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    border-radius: 50px;
+
+
+}
+.square{
+    width: 20px;
+    height: 500px;
+    background: green;  
+    position: absolute;
+    top: 170px;
+    left: 53%;
+    
+}
+.square2{
+    width: 160px;
+    height:300px;
+    background: darkgray; 
+    position: absolute;
+    bottom: 150px;
+    left: 48%;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.inline{
+    display: inline-block;
+}
